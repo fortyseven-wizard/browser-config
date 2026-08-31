@@ -1,4 +1,4 @@
-<h3>https://github.com/maxhu08/mtab</h3>
+<h4><a href="https://github.com/maxhu08/mtab">mtab</a><i>/ "lightweight new tab page extension"</i></h4>
 Art: https://x.com/popico_pi/status/2088921289033687368
 
 <p></p>
